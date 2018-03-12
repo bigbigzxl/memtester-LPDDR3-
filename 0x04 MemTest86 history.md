@@ -1,3 +1,4 @@
+﻿
 ### MemTest86 History - from 1994
 MemTest86 was **originally** developed by Chris Brady (BradyTech Inc) with a first release in 1994.
  
