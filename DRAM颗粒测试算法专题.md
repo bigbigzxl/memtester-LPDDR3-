@@ -1,4 +1,5 @@
 # 以下信息均通过阅读论文、读英文教材所得，分享之。
+以下信息均通过阅读论文、读英文教材所得，分享之。
 ![](http://upload-images.jianshu.io/upload_images/4749583-fe82870a4bbbcf32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![](http://upload-images.jianshu.io/upload_images/4749583-289d8861e52ba1ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![](http://upload-images.jianshu.io/upload_images/4749583-5c95a136ef9ffa4c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -16,3 +17,6 @@
 ![](http://upload-images.jianshu.io/upload_images/4749583-b0c6ddb6c26e2d40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![](http://upload-images.jianshu.io/upload_images/4749583-bbf213980e2af9f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
