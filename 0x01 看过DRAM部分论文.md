@@ -1,9 +1,14 @@
 ﻿
 <meta charset="utf-8">
 
+# 教材
+祖师爷级别的存在 A.J. van de Goor，下面是其零几年出的一本教材，里面讲了SDRAM的一些基本概念，**配合这个教材再看一些论文，就能得出一个粗细有致的知识图谱**。
+
 A.J. van de Goor：《Testing Semiconductor Memories Theory and Practice》
 
-写论文从1987写到了2011年就没新论文了。
+# 论文
+
+选择IEEE上的论文，从1987到2011年所有的论文都load下来，针对性（针对LPDDR3）读论文，可以发现在11年后就没发新论文了。
 
 IEEE：[http://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22Authors%22:.QT.A.J.%20van%20de%20Goor.QT.&newsearch=true](http://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22Authors%22:.QT.A.J.%20van%20de%20Goor.QT.&newsearch=true)
 
