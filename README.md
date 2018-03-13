@@ -2,11 +2,6 @@
 how to test LPDDR3 cell.
 # memory FT测试  --目录
 
-
-[**先看下DRAM大概啥样子**](https://www.techbang.com/posts/18381-from-the-channel-to-address-computer-main-memory-structures-to-understand?page=1)
-
-![哈哈，放错了，这是内部结构图，有助于你理解它内部的寻址](http://upload-images.jianshu.io/upload_images/4749583-ad01d1c8e0782291.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 # 目录
 **0x00：我要干嘛？**
 + memory测试
