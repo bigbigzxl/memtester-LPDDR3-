@@ -1,8 +1,9 @@
 # memtester-LPDDR3-
 how to measure LPDDR3 cell.
-# memory FT  --目录
 
-# 目录
+# memory FT
+
+## 目录
 **0x00：我要干嘛？**
 + memory 颗粒验证
 
